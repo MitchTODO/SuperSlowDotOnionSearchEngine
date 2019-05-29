@@ -15,7 +15,8 @@ class onionGenerator:
 
     def generator(self):
         url = "http://"
-        # loop sixteen times to generate a random number between 0 and the length of acii list
+        # loop sixteen times and generate a random number between 0 and the length of acii list
+        # random number is then used for indexing 
         for sixteen in range(16):
             arePick = self.listofACII[random.randint(0,(len(self.listofACII) - 1))]
             url += arePick
