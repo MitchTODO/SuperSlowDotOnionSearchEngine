@@ -4,9 +4,11 @@
 ## Versions / Libraries
 
 Python Version 3.7.1
+
 Tor Version 8.5
 
-Request library is used to make network request through local tor proxy.
+Request library is used to make network request through local tor proxy out to tor network.
+
 Pythons random library is also used to generate the url.
 
 ## Quick start
