@@ -1,5 +1,5 @@
 
-# .Onion Random Url Search script in python
+# Generates and test onion urls through the Tor Browser
 
 ## Versions / Libraries
 
