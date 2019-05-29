@@ -40,7 +40,8 @@ class Tor:
             return False
 
 
-#Known tor url's
+# Known tor url's 
+# used for testing
 knownUrl = 'https://www.facebookcorewwwi.onion/'
 duckduckGoUrl = "http://3g2upl4pq6kufc4m.onion/"
 torSearch = "http://xmh57jrzrnw6insl.onion/"
